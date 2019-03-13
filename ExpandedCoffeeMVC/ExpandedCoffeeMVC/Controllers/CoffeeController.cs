@@ -13,5 +13,27 @@ namespace ExpandedCoffeeMVC.Controllers
         {
             return View();
         }
+        // About 
+        public ActionResult About()
+        {
+            return View();
+        }
+        // Origins
+        public ActionResult Origins()
+        {
+            return View();
+        }
+        // List of Competitors
+        public ActionResult ListofCompetitors()
+        {
+            return View();
+        }
+        // Order Up
+        public ActionResult OrderUp()
+        {
+            return View();
+        }
+
     }
+
 }
